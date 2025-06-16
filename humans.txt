@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/mayukhpankaj/
 
 /* SITE */
 Site: DeepTrue AI – Secure Interview OS
-URL: https://deeptrue.framer.website/
+URL: https://deeptrue.ai/
 Platform: Hosted on Vercel
 Built With: HTML, Framer, JavaScript
 
