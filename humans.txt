@@ -1,0 +1,21 @@
+/* TEAM */
+Name: Mayukh Pankaj
+Role: Founder & Lead Developer
+Twitter: @deeptrueai
+LinkedIn: https://www.linkedin.com/in/mayukhpankaj/
+
+/* SITE */
+Site: DeepTrue AI – Secure Interview OS
+URL: https://deeptrue.framer.website/
+Platform: Hosted on Vercel
+Built With: HTML, Framer, JavaScript
+
+/* PURPOSE */
+Mission: Prevent AI-assisted cheating in interviews and assessments.
+Motto: "You need AI to beat AI."
+
+/* CONTACT */
+Email: founder@deeptrue.ai
+
+/* LAST UPDATED */
+2025-06-16

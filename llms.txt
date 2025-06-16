@@ -1,0 +1,25 @@
+# Deeptrue AI
+
+DeepTrue AI is an Anti Deepfake & AI proctoring platform that detects and prevents cheating during interviews and assessments. It detects Cluely, Final Round AI, Parakeet AI, and helps you hire vetted candidates.
+
+## Available Links
+
+### General Information
+- [No Title](https://deeptrue.framer.website/): <This link may contain general information about DeepTrue AI, its features, or services offered.>
+- [No Title](https://deeptrueai.medium.com/): <This link may provide additional insights or details related to DeepTrue AI.>
+- [No Title](https://www.linkedin.com/company/deeptrue-ai/): <This link may include further information or resources regarding DeepTrue AI.>
+- [No Title](https://x.com/deeptrueai): <This link may offer more context or details about the platform.>
+- [No Title](https://www.youtube.com/@deeptrueAI): <This link may present additional content relevant to DeepTrue AI.>
+- [No Title](https://www.instagram.com/deeptrue.ai/#m): <This link may contain supplementary information or resources related to DeepTrue AI.>
+
+### Manifesto
+- [Manifesto](https://deeptrue.framer.website/blog/manifesto): <The manifesto outlines the core principles and values of DeepTrue AI, emphasizing its commitment to integrity and fairness in assessments.>
+
+### Blog
+- [Blog](https://deeptrue.framer.website/blog): <The blog features articles and insights on topics related to AI, deepfakes, and proctoring, providing valuable information for users and stakeholders.>
+
+### Demo Request
+- [Request a demo](https://deeptrue.framer.website/request-a-demo): <This link allows potential users to request a demonstration of the DeepTrue AI platform, showcasing its capabilities and features.>
+
+### Anti-Cheat Strategies
+- [How to protect against AI cheats?](https://deeptrue.framer.website/blog/ai-startup-raises-millions-cheat-on-interviews): <This resource offers strategies and best practices for organizations to safeguard their assessments from AI-driven cheating.>
